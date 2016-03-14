@@ -1,0 +1,169 @@
+﻿/* GENERAL STYLES AND CLASSES 
+--------------------------------------------------------------------- */
+body {
+	padding: 5px;
+}
+
+/* HEADER STYLES
+--------------------------------------------------------------------- */
+header {
+}
+
+/* MAIN STYLES
+--------------------------------------------------------------------- */
+main {
+	padding: 0 20px;
+	min-height: 360px;
+	position: absolute;
+	left: 2%;
+	top: 50px;
+	width: 95%;	
+
+	.projects-table {
+		margin-top: 20px;
+
+		.action-column {
+			width: 60px;
+		}
+	}
+
+	/* TRANSITION ANIMATIONS FOR MAIN VIEW 
+	------------------------------------------*/
+
+	/* start 'enter' transition */
+	&.ng-enter {
+		/* transition on enter for .5s */
+		transition: .5s;
+
+		/* start with opacity 0 (invisible) */
+		opacity: 0;
+	}
+
+	/* end 'enter' transition */
+	&.ng-enter-active {
+		/* end with opacity 1 (fade in) */
+		opacity: 1;
+	}
+
+	/* list items */
+	.list-table {
+		position: absolute;
+		min-width: 67%;
+		.content {
+			width: 100%;
+			
+			.btn {
+				border-radius: 18px;
+				background-color: #2783bb;
+				color: white;
+			}
+			
+			.btn:hover {
+				background-color: #2790bb;
+			}
+			
+			.fa-remove {
+				color: red;
+			}
+			
+			.fa-remove:hover {
+				cursor: pointer;
+				color: red;
+			}
+		}
+	}
+	
+	/* header's row of table*/
+	.projects-table  th{
+		background-color: #2783bb;
+		color: white;
+	}
+	
+	/* details form */
+	.view-details-form {
+		.details-form {
+			position: fixed;
+			top: 30px;
+			left: 70%;
+			right: 0;
+			bottom: 0;
+
+			.content {
+				position: absolute;
+				z-index: 100;
+				top: 0;
+				right: 0;
+				width: 100%;
+				height: 100%;
+				overflow: auto;
+				background: #fff;
+				padding: 20px;
+				border-left: 1px solid #e0e0e0;
+			}
+			.btn {
+				border-radius: 18px;
+				background-color: #2783bb;
+				color: white;				
+			}			
+			.btn:hover {
+				background-color: #2790bb;
+			}
+		}
+
+		/* TRANSITION ANIMATIONS FOR DETAILS FORM VIEW
+		------------------------------------------*/
+
+		/* animations for details form view */
+		&.ng-enter, 
+		&.ng-leave {
+			/* transition on enter and leave for .5s */
+			transition: .5s;
+		}
+
+		/* start 'enter' transition */
+		&.ng-enter {
+			.details-form {
+				.content {
+					/* start with content 50% off the right of the page */
+					right: -100%;
+				}
+			}
+		}
+
+		/* end 'enter' transition */
+		&.ng-enter-active {
+			.details-form {
+				.content {
+					/* transition the right position which 
+					slides the content into view */
+					transition: right .5s;
+
+					/* end with content aligned to the right of the page */
+					right: 0;
+				}
+			}
+		}
+
+		/* end 'leave' transition */
+		&.ng-leave-active {
+			.details-form {
+				.content {
+					/* transition the right position which 
+					slides the content out of view */
+					transition: right .5s;
+                    
+					/* end transition with the content completely off the page */
+					right: -100%;
+				}
+			}
+		}
+	}
+}
+
+/* FOOTER STYLES
+--------------------------------------------------------------------- */
+footer {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+}

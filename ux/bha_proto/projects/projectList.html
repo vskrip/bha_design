@@ -1,0 +1,23 @@
+﻿<div class="list-table">
+  <div class="content">
+    <h1>Project List</h1>
+    <a ui-sref="projects.add" class="btn btn-default">Add Project</a>
+    <table class="table projects-table">
+      <tr>
+        <th>Field</th>
+        <th>Site</th>
+        <th>Well Number</th>
+        <th class="action-column"></th>
+        <th class="action-column"></th>
+      </tr>
+      <tr ng-repeat="project in vm.projects">
+        <td>{{project.field}}</td>
+        <td>{{project.site}}</td>
+        <td>{{project.well}}</td>
+        <td><a ui-sref="projects.edit({ id: project.id })"><i class="fa fa-pencil-square-o"></i></a></td>
+        <td><a ng-click="vm.deleteProject(project.id)"><i class="fa fa-remove"></i></a></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<div ui-view class="view-details-form"></div>

@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html ng-app="bhaProtoApp">
+<head>
+  <title>BHA Prototype Application</title>
+
+  <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link href="content/app.less" rel="stylesheet/less" type="text/css" />
+</head>
+<body>
+  <!-- header -->
+  <header>
+    <ul class="nav nav-tabs">
+      <li ng-class="{active: currentState.match('^home')}"><a ui-sref="home">Home</a></li> 
+      <li ng-class="{active: currentState.match('^project')}"><a ui-sref="projects">Projects</a></li>
+    </ul>
+  </header>
+
+  <!-- ui-view -->
+  <main ui-view></main>
+  
+  <!-- footer -->
+  <footer>
+  </footer>
+
+  <!-- less.js -->
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/less.js/2.5.3/less.min.js"></script>
+
+  <!-- angular -->
+  <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-animate.min.js"></script>
+
+  <!-- ui router -->
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.15/angular-ui-router.min.js"></script>
+
+  <!-- application scripts -->
+  <script src="app.js"></script>
+  <script src="services/project.service.js"></script>
+  <script src="home/home.controller.js"></script>
+  <script src="projects/project.controller.js"></script>
+  <script src="projects/projectDetails.controller.js"></script>
+</body>
+</html>
