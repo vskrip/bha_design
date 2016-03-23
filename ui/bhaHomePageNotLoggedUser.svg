@@ -15,7 +15,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="locusjs_weight_calc_bha_no_items.svg"
+   sodipodi:docname="bhaHomePageNotLoggedUser.svg"
    enable-background="new">
   <defs
      id="defs2987">
@@ -1033,6 +1033,61 @@
        y1="473.26892"
        x2="374.76474"
        y2="484.86215" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8737-9"
+       id="radialGradient8743-5"
+       cx="386.11627"
+       cy="414.16864"
+       fx="386.11627"
+       fy="414.16864"
+       r="83.300896"
+       gradientTransform="matrix(-0.04255488,-0.45717562,1.5164615,-0.14115564,-233.469,810.08953)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient8737-9">
+      <stop
+         style="stop-color:#164476;stop-opacity:1;"
+         offset="0"
+         id="stop8739-81" />
+      <stop
+         style="stop-color:#41b0e5;stop-opacity:0;"
+         offset="1"
+         id="stop8741-32" />
+    </linearGradient>
+    <radialGradient
+       r="83.300896"
+       fy="414.16864"
+       fx="386.11627"
+       cy="414.16864"
+       cx="386.11627"
+       gradientTransform="matrix(0.04255488,0.45717562,-1.5164615,0.14115564,773.56028,214.95176)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8834-17"
+       xlink:href="#linearGradient8737-6-5"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient8737-6-5">
+      <stop
+         style="stop-color:#164476;stop-opacity:1;"
+         offset="0"
+         id="stop8739-2-8" />
+      <stop
+         style="stop-color:#41b0e5;stop-opacity:0;"
+         offset="1"
+         id="stop8741-96-61" />
+    </linearGradient>
+    <radialGradient
+       r="83.300896"
+       fy="414.16864"
+       fx="386.11627"
+       cy="414.16864"
+       cx="386.11627"
+       gradientTransform="matrix(0.04255488,0.45717562,-1.5164615,0.14115564,773.56028,214.95176)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3338"
+       xlink:href="#linearGradient8737-6-5"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1043,8 +1098,8 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0416554"
      inkscape:cx="512.7719"
-     inkscape:cy="383.02413"
-     inkscape:current-layer="layer3"
+     inkscape:cy="383.02414"
+     inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:window-width="1679"
@@ -1075,9 +1130,10 @@
        width="1022.6988"
        height="766.04828"
        x="0.97585702"
-       y="1.951732"
+       y="-768"
        rx="3.7014694"
-       ry="7.1418576" />
+       ry="7.1418576"
+       transform="scale(1,-1)" />
     <g
        id="g9895"
        transform="translate(-1.2465744,0)">
@@ -1152,7 +1208,7 @@
          style="display:inline">
         <path
            transform="matrix(0.50766607,0,0,-0.50766637,-54.96148,672.50812)"
-           d="m 178.19091,239.61787 a 13.788582,13.788582 0 1 1 -27.57716,0 13.788582,13.788582 0 1 1 27.57716,0 z"
+           d="m 178.19091,239.61787 c 0,7.61523 -6.17336,13.78859 -13.78858,13.78859 -7.61522,0 -13.78858,-6.17336 -13.78858,-13.78859 0,-7.61522 6.17336,-13.78858 13.78858,-13.78858 7.61522,0 13.78858,6.17336 13.78858,13.78858 z"
            sodipodi:ry="13.788582"
            sodipodi:rx="13.788582"
            sodipodi:cy="239.61787"
@@ -1168,7 +1224,7 @@
            sodipodi:cy="239.61787"
            sodipodi:rx="13.788582"
            sodipodi:ry="13.788582"
-           d="m 178.19091,239.61787 a 13.788582,13.788582 0 1 1 -27.57716,0 13.788582,13.788582 0 1 1 27.57716,0 z"
+           d="m 178.19091,239.61787 c 0,7.61523 -6.17336,13.78859 -13.78858,13.78859 -7.61522,0 -13.78858,-6.17336 -13.78858,-13.78859 0,-7.61522 6.17336,-13.78858 13.78858,-13.78858 7.61522,0 13.78858,6.17336 13.78858,13.78858 z"
            transform="matrix(0.43514227,0,0,0.43514266,-43.038397,446.59422)" />
       </g>
       <g
@@ -1184,11 +1240,11 @@
            sodipodi:cy="239.61787"
            sodipodi:rx="13.788582"
            sodipodi:ry="13.788582"
-           d="m 178.19091,239.61787 a 13.788582,13.788582 0 1 1 -27.57716,0 13.788582,13.788582 0 1 1 27.57716,0 z"
+           d="m 178.19091,239.61787 c 0,7.61523 -6.17336,13.78859 -13.78858,13.78859 -7.61522,0 -13.78858,-6.17336 -13.78858,-13.78859 0,-7.61522 6.17336,-13.78858 13.78858,-13.78858 7.61522,0 13.78858,6.17336 13.78858,13.78858 z"
            transform="matrix(0.50766607,0,0,-0.50766637,-54.96148,672.50812)" />
         <path
            transform="matrix(0.43514227,0,0,0.43514266,-43.038397,446.59422)"
-           d="m 178.19091,239.61787 a 13.788582,13.788582 0 1 1 -27.57716,0 13.788582,13.788582 0 1 1 27.57716,0 z"
+           d="m 178.19091,239.61787 c 0,7.61523 -6.17336,13.78859 -13.78858,13.78859 -7.61522,0 -13.78858,-6.17336 -13.78858,-13.78859 0,-7.61522 6.17336,-13.78858 13.78858,-13.78858 7.61522,0 13.78858,6.17336 13.78858,13.78858 z"
            sodipodi:ry="13.788582"
            sodipodi:rx="13.788582"
            sodipodi:cy="239.61787"
@@ -1204,7 +1260,7 @@
          style="display:inline">
         <path
            transform="matrix(0.50766607,0,0,-0.50766637,-54.96148,672.50812)"
-           d="m 178.19091,239.61787 a 13.788582,13.788582 0 1 1 -27.57716,0 13.788582,13.788582 0 1 1 27.57716,0 z"
+           d="m 178.19091,239.61787 c 0,7.61523 -6.17336,13.78859 -13.78858,13.78859 -7.61522,0 -13.78858,-6.17336 -13.78858,-13.78859 0,-7.61522 6.17336,-13.78858 13.78858,-13.78858 7.61522,0 13.78858,6.17336 13.78858,13.78858 z"
            sodipodi:ry="13.788582"
            sodipodi:rx="13.788582"
            sodipodi:cy="239.61787"
@@ -1220,7 +1276,7 @@
            sodipodi:cy="239.61787"
            sodipodi:rx="13.788582"
            sodipodi:ry="13.788582"
-           d="m 178.19091,239.61787 a 13.788582,13.788582 0 1 1 -27.57716,0 13.788582,13.788582 0 1 1 27.57716,0 z"
+           d="m 178.19091,239.61787 c 0,7.61523 -6.17336,13.78859 -13.78858,13.78859 -7.61522,0 -13.78858,-6.17336 -13.78858,-13.78859 0,-7.61522 6.17336,-13.78858 13.78858,-13.78858 7.61522,0 13.78858,6.17336 13.78858,13.78858 z"
            transform="matrix(0.43514227,0,0,0.43514266,-43.038397,446.59422)" />
       </g>
       <path
@@ -1277,7 +1333,7 @@
          sodipodi:end="10.210176"
          sodipodi:start="5.4977871"
          transform="matrix(0.93239849,0,0,0.91139247,-438.69446,-17.794109)"
-         d="m 568.55384,123.25866 a 4.9375,4.9375 0 1 1 -6.98268,0"
+         d="m 568.55384,123.25866 c 1.92821,1.92821 1.92821,5.05447 0,6.98268 -1.92821,1.92821 -5.05447,1.92821 -6.98268,0 -1.92821,-1.92821 -1.92821,-5.05447 0,-6.98268"
          sodipodi:ry="4.9375"
          sodipodi:rx="4.9375"
          sodipodi:cy="126.75"
@@ -1299,7 +1355,7 @@
          sodipodi:cy="126.75"
          sodipodi:rx="4.9375"
          sodipodi:ry="4.9375"
-         d="m 568.55384,123.25866 a 4.9375,4.9375 0 1 1 -6.98268,0"
+         d="m 568.55384,123.25866 c 1.92821,1.92821 1.92821,5.05447 0,6.98268 -1.92821,1.92821 -5.05447,1.92821 -6.98268,0 -1.92821,-1.92821 -1.92821,-5.05447 0,-6.98268"
          transform="matrix(0.93239849,0,0,0.91139247,-438.69446,-18.794109)"
          sodipodi:start="5.4977871"
          sodipodi:end="10.210176"
@@ -1337,13 +1393,13 @@
        sodipodi:linespacing="125%"
        id="weight_calc_page_title"
        y="284.27759"
-       x="291.74713"
+       x="293.74713"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:label="weight_calc_page_title"><tspan
          style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Bold"
          y="284.27759"
-         x="291.74713"
+         x="293.74713"
          id="tspan6047"
          sodipodi:role="line">Bottom Hole Assemblies</tspan></text>
     <text
@@ -1388,145 +1444,6 @@
          id="tspan4065"
          x="47.215027"
          y="743.19196">Copyright Vladimir Skripachev</tspan></text>
-    <g
-       id="g9025">
-      <text
-         inkscape:label="drill_composition_title"
-         sodipodi:linespacing="125%"
-         id="drill_composition_title"
-         y="485.58072"
-         x="231.4794"
-         style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-         xml:space="preserve"><tspan
-           style="font-size:16px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-           y="485.58072"
-           x="231.4794"
-           id="tspan6065"
-           sodipodi:role="line">BHA List</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3949"
-         y="506.62219"
-         x="171.02042"
-         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"><tspan
-           y="506.62219"
-           x="171.02042"
-           id="tspan3951"
-           sodipodi:role="line">List of Bottom Hole Assemblies. On a</tspan><tspan
-           y="519.12219"
-           x="171.02042"
-           sodipodi:role="line"
-           id="tspan9227"
-           dx="0 0 0 0 7.1077038e-09">project of oil or gas tranks drilling there</tspan><tspan
-           id="tspan3953"
-           y="531.62219"
-           x="171.02042"
-           sodipodi:role="line">are different Bottom Hole Assemblies.</tspan></text>
-      <path
-         sodipodi:nodetypes="ccczc"
-         inkscape:connector-curvature="0"
-         id="path8735"
-         d="m 212.72227,574.63763 165.60179,0 0,-48.96053 c 0,0 -13.56485,23.11547 -51.83764,33.30359 -38.27279,10.18812 -113.76415,15.65694 -113.76415,15.65694 z"
-         style="opacity:0.23600003;fill:url(#radialGradient8743);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <rect
-         ry="8.8696737"
-         rx="9.9002533"
-         y="550.51428"
-         x="172.23"
-         height="18.036425"
-         width="67.165756"
-         id="rect8813"
-         style="fill:#278dc9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text8815"
-         y="563.09082"
-         x="185.18555"
-         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"><tspan
-           style="fill:#ffffff"
-           y="563.09082"
-           x="185.18555"
-           id="tspan8817"
-           sodipodi:role="line">BHA List</tspan></text>
-      <path
-         sodipodi:nodetypes="ccczc"
-         inkscape:connector-curvature="0"
-         id="path8735-0"
-         d="m 327.36901,450.40366 -165.60179,0 0,48.96053 c 0,0 13.56485,-23.11547 51.83764,-33.30359 38.27279,-10.18812 113.76415,-15.65694 113.76415,-15.65694 z"
-         style="opacity:0.23600003;fill:url(#radialGradient8834);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-    </g>
-    <g
-       transform="translate(255.70077,0)"
-       style="display:inline"
-       id="g9025-7">
-      <text
-         inkscape:label="drill_composition_title"
-         sodipodi:linespacing="125%"
-         id="drill_composition_title-5"
-         y="485.58072"
-         x="231.4794"
-         style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-         xml:space="preserve"><tspan
-           style="font-size:16px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-           y="485.58072"
-           x="231.4794"
-           id="tspan6065-3"
-           sodipodi:role="line">BHA Items</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3949-4"
-         y="506.62219"
-         x="171.02042"
-         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"><tspan
-           id="tspan3953-5"
-           y="506.62219"
-           x="171.02042"
-           sodipodi:role="line">A Bottom Hole Assembly contains items</tspan><tspan
-           y="519.12219"
-           x="171.02042"
-           sodipodi:role="line"
-           id="tspan9256">of drilling equipment, which has different</tspan><tspan
-           y="531.62219"
-           x="171.02042"
-           sodipodi:role="line"
-           id="tspan9258">purpose.</tspan></text>
-      <path
-         sodipodi:nodetypes="ccczc"
-         inkscape:connector-curvature="0"
-         id="path8735-7"
-         d="m 212.72227,574.63763 165.60179,0 0,-48.96053 c 0,0 -13.56485,23.11547 -51.83764,33.30359 -38.27279,10.18812 -113.76415,15.65694 -113.76415,15.65694 z"
-         style="opacity:0.23600003;fill:url(#radialGradient8743-8);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <rect
-         ry="8.8696737"
-         rx="9.9002533"
-         y="550.51428"
-         x="172.23"
-         height="18.036425"
-         width="67.165756"
-         id="rect8813-8"
-         style="fill:#278dc9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text8815-4"
-         y="563.09082"
-         x="181.18555"
-         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"><tspan
-           style="fill:#ffffff"
-           y="563.09082"
-           x="181.18555"
-           id="tspan8817-1"
-           sodipodi:role="line">BHA Items</tspan></text>
-      <path
-         sodipodi:nodetypes="ccczc"
-         inkscape:connector-curvature="0"
-         id="path8735-0-7"
-         d="m 327.36901,450.40366 -165.60179,0 0,48.96053 c 0,0 13.56485,-23.11547 51.83764,-33.30359 38.27279,-10.18812 113.76415,-15.65694 113.76415,-15.65694 z"
-         style="opacity:0.23600003;fill:url(#radialGradient9072);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-    </g>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
@@ -1549,119 +1466,358 @@
          id="tspan4073"
          x="886.2688"
          y="743.13715">vskrip33@gmail.com</tspan></text>
-    <path
-       id="shapes-f14-en.svgpath3540"
-       style="color:#000000;fill:#2765a7;fill-opacity:1;fill-rule:evenodd;marker-start:none;marker-mid:none;marker-end:none;display:inline"
-       sodipodi:type="star"
-       d="m 35.930009,4210.6035 -18.460763,-23.0803 16.491,24.6968 -13.603295,-26.2383 11.356009,27.4395 -8.223061,-28.388 5.784613,29.1277 -2.526818,-29.4468 -0.0091,29.6966 3.266529,-29.374 -5.80243,29.1242 8.934345,-28.1723 -11.372792,27.4326 14.258818,-25.8879 -16.506104,24.6867 19.035333,-22.6087 -21.005096,20.9922 23.080332,-18.4608 -24.696875,16.491 26.238367,-13.6033 -27.439566,11.3561 28.388074,-8.2231 -29.127769,5.7846 29.446845,-2.5268 -29.69661,-0.01 29.37399,3.2665 -29.124225,-5.8024 28.172309,8.9344 -27.432614,-11.3728 25.887982,14.2588 -24.686783,-16.5061 22.608794,19.0353 -20.992251,-21.0051 18.460763,23.0803 -16.491001,-24.6968 13.603296,26.2383 -11.356009,-27.4395 8.22306,28.388 -5.784613,-29.1277 2.526818,29.4468 0.0091,-29.6966 -3.266528,29.374 5.802429,-29.1242 -8.934344,28.1723 11.372792,-27.4326 -14.258819,25.888 16.506105,-24.6868 -19.035334,22.6088 21.005097,-20.9923 -23.080333,18.4608 24.696875,-16.491 -26.238366,13.6033 27.439566,-11.356 -28.388075,8.223 29.12777,-5.7846 -29.446846,2.5268 29.69661,0.01 -29.37399,-3.2665 29.124226,5.8024 -28.172309,-8.9343 27.432614,11.3728 -25.887982,-14.2589 24.686782,16.5061 -22.608794,-19.0353 z"
-       sodipodi:r1="12.998599"
-       inkscape:flatsided="false"
-       transform="matrix(3.372164,0,0,3.372164,436.29064,-13779.95)"
-       sodipodi:arg2="-2.159301"
-       sodipodi:arg1="0.78539816"
-       inkscape:randomized="0"
-       sodipodi:cy="4201.4121"
-       sodipodi:cx="26.738611"
-       inkscape:rounded="0"
-       sodipodi:r2="16.698013"
-       sodipodi:sides="32" />
-    <path
-       id="shapes-f14-en.svgpath2724"
-       style="color:#000000;fill:#2765a7;fill-opacity:1;fill-rule:evenodd;marker-start:none;marker-mid:none;marker-end:none;display:inline"
-       sodipodi:type="star"
-       d="m 307.9506,4272.0326 -41.28003,0.6425 33.55556,17.4164 -29.64373,-28.735 11.41211,36.0426 -0.64253,-41.28 -17.4164,33.5555 28.73505,-29.6437 -36.04261,11.4121 41.28002,-0.6425 -33.55556,-17.4164 29.64373,28.735 -11.41211,-36.0426 0.64253,41.28 17.4164,-33.5555 -28.73505,29.6437 z"
-       sodipodi:r1="25.662985"
-       inkscape:flatsided="false"
-       transform="matrix(1.9041614,6.3757228e-5,-6.3757228e-5,1.9041614,-266.31144,-7744.2497)"
-       sodipodi:arg2="3.0816518"
-       sodipodi:arg1="0.011487387"
-       inkscape:randomized="0"
-       sodipodi:cy="4271.7378"
-       sodipodi:cx="282.28931"
-       inkscape:rounded="0"
-       sodipodi:r2="15.646836"
-       sodipodi:sides="8" />
-    <path
-       id="shapes-f14-en.svgpath5832"
-       style="color:#000000;fill:#2765a7;fill-opacity:1;fill-rule:evenodd;marker-start:none;marker-mid:none;marker-end:none;display:inline"
-       sodipodi:type="star"
-       d="m 114.31283,4305.9417 -54.979467,-38.4346 42.246347,53.1107 -37.382636,-55.7001 20.207734,64.7854 -14.737068,-65.4429 -4.560042,67.7104 9.898821,-66.3473 -28.71196,61.4908 33.197818,-58.2912 -48.986167,46.9666 52.013265,-42.3626 -62.644521,26.0992 63.804034,-20.7125 -67.842387,1.7069 66.977714,3.7349 -63.877761,-22.9159 61.105683,27.6778 -51.28609,-44.4437 46.98099,47.8827 -31.767949,-59.9692 26.511255,61.6208 -7.959369,-67.3955 2.461027,67.0366 16.924167,-65.7197 -21.921575,63.3988 39.522,-55.168 -43.343548,51.1986 56.782165,-37.1657 -58.91173,32.0838 66.37359,-14.1439 -66.523564,8.6359 67.000894,10.7881 -65.151021,-15.9783 z"
-       sodipodi:r1="52.870548"
-       inkscape:flatsided="false"
-       transform="translate(713.79779,-3889.6115)"
-       sodipodi:arg2="-2.2448164"
-       sodipodi:arg1="0.52982957"
-       inkscape:randomized="0"
-       sodipodi:cy="4279.2217"
-       sodipodi:cx="68.691193"
-       inkscape:rounded="0"
-       sodipodi:r2="14.99335"
-       sodipodi:sides="17" />
     <g
-       transform="translate(512.11271,-0.05487587)"
-       style="display:inline"
-       id="g9025-4">
-      <text
-         inkscape:label="drill_composition_title"
-         sodipodi:linespacing="125%"
-         id="drill_composition_title-1"
-         y="487.58072"
-         x="197.4794"
-         style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-         xml:space="preserve"><tspan
-           style="font-size:16px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-           y="487.58072"
-           x="197.4794"
-           id="tspan6065-0"
-           sodipodi:role="line">Equipment Group</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3949-3"
-         y="511.73657"
-         x="171.0634"
-         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"><tspan
-           id="tspan3953-3"
-           y="511.73657"
-           x="171.0634"
-           sodipodi:role="line">Drilling Equipment has different purpose</tspan><tspan
-           y="524.23657"
-           x="171.0634"
-           sodipodi:role="line"
-           id="tspan9274">and we can grouping it.</tspan></text>
-      <path
-         sodipodi:nodetypes="ccczc"
-         inkscape:connector-curvature="0"
-         id="path8735-4"
-         d="m 212.72227,574.63763 165.60179,0 0,-48.96053 c 0,0 -13.56485,23.11547 -51.83764,33.30359 -38.27279,10.18812 -113.76415,15.65694 -113.76415,15.65694 z"
-         style="opacity:0.23600003;fill:url(#radialGradient8743-17-9);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <rect
-         ry="8.8696737"
-         rx="10.804791"
-         y="550.51428"
-         x="172.23"
-         height="18.036425"
-         width="108.58272"
-         id="rect8813-87"
-         style="fill:#278dc9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text8815-6"
-         y="563.09082"
-         x="183.18555"
-         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"><tspan
-           style="fill:#ffffff"
+       id="g3389"
+       transform="matrix(0.89631397,0,0,0.9684006,155.4453,84.87057)">
+      <g
+         id="g9025-8"
+         style="display:inline"
+         transform="translate(-252.76545,-72.85459)" />
+      <g
+         id="g3462">
+        <g
+           transform="translate(0,-72.854592)"
+           id="g9025"
+           style="display:inline">
+          <text
+             xml:space="preserve"
+             style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             x="231.4794"
+             y="485.58072"
+             id="drill_composition_title"
+             sodipodi:linespacing="125%"
+             inkscape:label="drill_composition_title"><tspan
+               sodipodi:role="line"
+               id="tspan6065"
+               x="231.4794"
+               y="485.58072"
+               style="font-size:16px;font-weight:bold;-inkscape-font-specification:Sans Bold">BHA List</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+             x="171.02042"
+             y="506.62219"
+             id="text3949"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan3951"
+               x="171.02042"
+               y="506.62219">List of Bottom Hole Assemblies. On a</tspan><tspan
+               dx="0 0 0 0 7.1077038e-09"
+               id="tspan9227"
+               sodipodi:role="line"
+               x="171.02042"
+               y="519.12219">project of oil or gas tranks drilling there</tspan><tspan
+               sodipodi:role="line"
+               x="171.02042"
+               y="531.62219"
+               id="tspan3953">are different Bottom Hole Assemblies.</tspan></text>
+          <path
+             style="opacity:0.23600003;fill:url(#radialGradient8743);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 212.72227,574.63763 165.60179,0 0,-48.96053 c 0,0 -13.56485,23.11547 -51.83764,33.30359 -38.27279,10.18812 -113.76415,15.65694 -113.76415,15.65694 z"
+             id="path8735"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccczc" />
+          <rect
+             style="fill:#278dc9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             id="rect8813"
+             width="67.165756"
+             height="18.036425"
+             x="172.23"
+             y="550.51428"
+             rx="9.9002533"
+             ry="8.8696737" />
+          <text
+             xml:space="preserve"
+             style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+             x="185.18555"
+             y="563.09082"
+             id="text8815"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan8817"
+               x="185.18555"
+               y="563.09082"
+               style="fill:#ffffff">BHA List</tspan></text>
+          <path
+             style="opacity:0.23600003;fill:url(#radialGradient8834);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             d="m 327.36901,450.40366 -165.60179,0 0,48.96053 c 0,0 13.56485,-23.11547 51.83764,-33.30359 38.27279,-10.18812 113.76415,-15.65694 113.76415,-15.65694 z"
+             id="path8735-0"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccczc" />
+        </g>
+        <g
+           id="g9025-7"
+           style="display:inline"
+           transform="translate(255.70077,-72.854592)">
+          <text
+             xml:space="preserve"
+             style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             x="231.4794"
+             y="485.58072"
+             id="drill_composition_title-5"
+             sodipodi:linespacing="125%"
+             inkscape:label="drill_composition_title"><tspan
+               sodipodi:role="line"
+               id="tspan6065-3"
+               x="231.4794"
+               y="485.58072"
+               style="font-size:16px;font-weight:bold;-inkscape-font-specification:Sans Bold">BHA Items</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+             x="171.02042"
+             y="506.62219"
+             id="text3949-4"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="171.02042"
+               y="506.62219"
+               id="tspan3953-5">A Bottom Hole Assembly contains items</tspan><tspan
+               id="tspan9256"
+               sodipodi:role="line"
+               x="171.02042"
+               y="519.12219">of drilling equipment, which has different</tspan><tspan
+               id="tspan9258"
+               sodipodi:role="line"
+               x="171.02042"
+               y="531.62219">purpose.</tspan></text>
+          <path
+             style="opacity:0.23600003;fill:url(#radialGradient8743-8);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 212.72227,574.63763 165.60179,0 0,-48.96053 c 0,0 -13.56485,23.11547 -51.83764,33.30359 -38.27279,10.18812 -113.76415,15.65694 -113.76415,15.65694 z"
+             id="path8735-7"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccczc" />
+          <rect
+             style="fill:#278dc9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             id="rect8813-8"
+             width="67.165756"
+             height="18.036425"
+             x="172.23"
+             y="550.51428"
+             rx="9.9002533"
+             ry="8.8696737" />
+          <text
+             xml:space="preserve"
+             style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+             x="181.18555"
+             y="563.09082"
+             id="text8815-4"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan8817-1"
+               x="181.18555"
+               y="563.09082"
+               style="fill:#ffffff">BHA Items</tspan></text>
+          <path
+             style="opacity:0.23600003;fill:url(#radialGradient9072);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             d="m 327.36901,450.40366 -165.60179,0 0,48.96053 c 0,0 13.56485,-23.11547 51.83764,-33.30359 38.27279,-10.18812 113.76415,-15.65694 113.76415,-15.65694 z"
+             id="path8735-0-7"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccczc" />
+        </g>
+        <path
+           sodipodi:sides="32"
+           sodipodi:r2="16.698013"
+           inkscape:rounded="0"
+           sodipodi:cx="26.738611"
+           sodipodi:cy="4201.4121"
+           inkscape:randomized="0"
+           sodipodi:arg1="0.78539816"
+           sodipodi:arg2="-2.159301"
+           transform="matrix(3.372164,0,0,3.3721642,436.29064,-13852.805)"
+           inkscape:flatsided="false"
+           sodipodi:r1="12.998599"
+           d="m 35.930009,4210.6035 -18.460763,-23.0803 16.491,24.6968 -13.603295,-26.2383 11.356009,27.4395 -8.223061,-28.388 5.784613,29.1277 -2.526818,-29.4468 -0.0091,29.6966 3.266529,-29.374 -5.80243,29.1242 8.934345,-28.1723 -11.372792,27.4326 14.258818,-25.8879 -16.506104,24.6867 19.035333,-22.6087 -21.005096,20.9922 23.080332,-18.4608 -24.696875,16.491 26.238367,-13.6033 -27.439566,11.3561 28.388074,-8.2231 -29.127769,5.7846 29.446845,-2.5268 -29.69661,-0.01 29.37399,3.2665 -29.124225,-5.8024 28.172309,8.9344 -27.432614,-11.3728 25.887982,14.2588 -24.686783,-16.5061 22.608794,19.0353 -20.992251,-21.0051 18.460763,23.0803 -16.491001,-24.6968 13.603296,26.2383 -11.356009,-27.4395 8.22306,28.388 -5.784613,-29.1277 2.526818,29.4468 0.0091,-29.6966 -3.266528,29.374 5.802429,-29.1242 -8.934344,28.1723 11.372792,-27.4326 -14.258819,25.888 16.506105,-24.6868 -19.035334,22.6088 21.005097,-20.9923 -23.080333,18.4608 24.696875,-16.491 -26.238366,13.6033 27.439566,-11.356 -28.388075,8.223 29.12777,-5.7846 -29.446846,2.5268 29.69661,0.01 -29.37399,-3.2665 29.124226,5.8024 -28.172309,-8.9343 27.432614,11.3728 -25.887982,-14.2589 24.686782,16.5061 -22.608794,-19.0353 z"
+           sodipodi:type="star"
+           style="display:inline;color:#000000;fill:#2765a7;fill-opacity:1;fill-rule:evenodd;marker-start:none;marker-mid:none;marker-end:none"
+           id="shapes-f14-en.svgpath3540" />
+        <path
+           sodipodi:sides="8"
+           sodipodi:r2="15.646836"
+           inkscape:rounded="0"
+           sodipodi:cx="282.28931"
+           sodipodi:cy="4271.7378"
+           inkscape:randomized="0"
+           sodipodi:arg1="0.011487387"
+           sodipodi:arg2="3.0816518"
+           transform="matrix(1.9041614,6.3757231e-5,-6.3757228e-5,1.9041615,-266.31144,-7817.1046)"
+           inkscape:flatsided="false"
+           sodipodi:r1="25.662985"
+           d="m 307.9506,4272.0326 -41.28003,0.6425 33.55556,17.4164 -29.64373,-28.735 11.41211,36.0426 -0.64253,-41.28 -17.4164,33.5555 28.73505,-29.6437 -36.04261,11.4121 41.28002,-0.6425 -33.55556,-17.4164 29.64373,28.735 -11.41211,-36.0426 0.64253,41.28 17.4164,-33.5555 -28.73505,29.6437 z"
+           sodipodi:type="star"
+           style="display:inline;color:#000000;fill:#2765a7;fill-opacity:1;fill-rule:evenodd;marker-start:none;marker-mid:none;marker-end:none"
+           id="shapes-f14-en.svgpath2724" />
+        <path
+           sodipodi:sides="17"
+           sodipodi:r2="14.99335"
+           inkscape:rounded="0"
+           sodipodi:cx="68.691193"
+           sodipodi:cy="4279.2217"
+           inkscape:randomized="0"
+           sodipodi:arg1="0.52982957"
+           sodipodi:arg2="-2.2448164"
+           transform="translate(713.79779,-3962.4662)"
+           inkscape:flatsided="false"
+           sodipodi:r1="52.870548"
+           d="m 114.31283,4305.9417 -54.979467,-38.4346 42.246347,53.1107 -37.382636,-55.7001 20.207734,64.7854 -14.737068,-65.4429 -4.560042,67.7104 9.898821,-66.3473 -28.71196,61.4908 33.197818,-58.2912 -48.986167,46.9666 52.013265,-42.3626 -62.644521,26.0992 63.804034,-20.7125 -67.842387,1.7069 66.977714,3.7349 -63.877761,-22.9159 61.105683,27.6778 -51.28609,-44.4437 46.98099,47.8827 -31.767949,-59.9692 26.511255,61.6208 -7.959369,-67.3955 2.461027,67.0366 16.924167,-65.7197 -21.921575,63.3988 39.522,-55.168 -43.343548,51.1986 56.782165,-37.1657 -58.91173,32.0838 66.37359,-14.1439 -66.523564,8.6359 67.000894,10.7881 -65.151021,-15.9783 z"
+           sodipodi:type="star"
+           style="display:inline;color:#000000;fill:#2765a7;fill-opacity:1;fill-rule:evenodd;marker-start:none;marker-mid:none;marker-end:none"
+           id="shapes-f14-en.svgpath5832" />
+        <g
+           id="g9025-4"
+           style="display:inline"
+           transform="translate(512.11271,-72.909468)">
+          <text
+             xml:space="preserve"
+             style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             x="197.4794"
+             y="487.58072"
+             id="drill_composition_title-1"
+             sodipodi:linespacing="125%"
+             inkscape:label="drill_composition_title"><tspan
+               sodipodi:role="line"
+               id="tspan6065-0"
+               x="197.4794"
+               y="487.58072"
+               style="font-size:16px;font-weight:bold;-inkscape-font-specification:Sans Bold">Equipment Group</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+             x="171.0634"
+             y="511.73657"
+             id="text3949-3"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="171.0634"
+               y="511.73657"
+               id="tspan3953-3">Drilling Equipment has different purpose</tspan><tspan
+               id="tspan9274"
+               sodipodi:role="line"
+               x="171.0634"
+               y="524.23657">and we can grouping it.</tspan></text>
+          <path
+             style="opacity:0.23600003;fill:url(#radialGradient8743-17-9);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 212.72227,574.63763 165.60179,0 0,-48.96053 c 0,0 -13.56485,23.11547 -51.83764,33.30359 -38.27279,10.18812 -113.76415,15.65694 -113.76415,15.65694 z"
+             id="path8735-4"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccczc" />
+          <rect
+             style="fill:#278dc9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             id="rect8813-87"
+             width="108.58272"
+             height="18.036425"
+             x="172.23"
+             y="550.51428"
+             rx="10.804791"
+             ry="8.8696737" />
+          <text
+             xml:space="preserve"
+             style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+             x="183.18555"
+             y="563.09082"
+             id="text8815-6"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan8817-8"
+               x="183.18555"
+               y="563.09082"
+               style="fill:#ffffff">Equipment Group</tspan></text>
+          <path
+             style="opacity:0.23600003;fill:url(#radialGradient9072-5-3);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             d="m 327.36901,450.40366 -165.60179,0 0,48.96053 c 0,0 13.56485,-23.11547 51.83764,-33.30359 38.27279,-10.18812 113.76415,-15.65694 113.76415,-15.65694 z"
+             id="path8735-0-4"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccczc" />
+        </g>
+        <text
+           inkscape:label="drill_composition_title"
+           sodipodi:linespacing="125%"
+           id="drill_composition_title-7"
+           y="485.58072"
+           x="231.4794"
+           style="display:inline;font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           xml:space="preserve"
+           transform="translate(-252.76545,-72.85459)"><tspan
+             style="font-size:16px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+             y="485.58072"
+             x="231.4794"
+             id="tspan6065-5"
+             sodipodi:role="line">Project List</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3949-9"
+           y="506.62219"
+           x="171.02042"
+           style="display:inline;font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+           xml:space="preserve"
+           transform="translate(-252.76545,-72.85459)"><tspan
+             id="tspan3953-9"
+             y="506.62219"
+             x="171.02042"
+             sodipodi:role="line">There are many projects, in wich used</tspan><tspan
+             id="tspan3409"
+             y="519.12219"
+             x="171.02042"
+             sodipodi:role="line">BHA. Only one project can be</tspan><tspan
+             id="tspan3411"
+             y="531.62219"
+             x="171.02042"
+             sodipodi:role="line">current.</tspan></text>
+        <path
+           sodipodi:nodetypes="ccczc"
+           inkscape:connector-curvature="0"
+           id="path8735-6"
+           d="m 212.72227,574.63763 165.60179,0 0,-48.96053 c 0,0 -13.56485,23.11547 -51.83764,33.30359 -38.27279,10.18812 -113.76415,15.65694 -113.76415,15.65694 z"
+           style="display:inline;opacity:0.23600003000000000;fill:url(#radialGradient8743-5);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           transform="translate(-252.76545,-72.85459)" />
+        <rect
+           ry="8.8696737"
+           rx="11.776907"
+           y="550.51428"
+           x="172.23"
+           height="18.036425"
+           width="79.897438"
+           id="rect8813-1"
+           style="display:inline;fill:#278dc9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           transform="translate(-252.76545,-72.85459)" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text8815-5"
            y="563.09082"
-           x="183.18555"
-           id="tspan8817-8"
-           sodipodi:role="line">Equipment Group</tspan></text>
-      <path
-         sodipodi:nodetypes="ccczc"
-         inkscape:connector-curvature="0"
-         id="path8735-0-4"
-         d="m 327.36901,450.40366 -165.60179,0 0,48.96053 c 0,0 13.56485,-23.11547 51.83764,-33.30359 38.27279,-10.18812 113.76415,-15.65694 113.76415,-15.65694 z"
-         style="opacity:0.23600003;fill:url(#radialGradient9072-5-3);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+           x="185.18555"
+           style="display:inline;font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+           xml:space="preserve"
+           transform="translate(-252.76545,-72.85459)"><tspan
+             style="fill:#ffffff"
+             y="563.09082"
+             x="185.18555"
+             id="tspan8817-0"
+             sodipodi:role="line">Project List</tspan></text>
+        <path
+           sodipodi:nodetypes="ccczc"
+           inkscape:connector-curvature="0"
+           id="path8735-0-0"
+           d="m 327.36901,450.40366 -165.60179,0 0,48.96053 c 0,0 13.56485,-23.11547 51.83764,-33.30359 38.27279,-10.18812 113.76415,-15.65694 113.76415,-15.65694 z"
+           style="display:inline;opacity:0.23600003000000000;fill:url(#radialGradient3338);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           transform="translate(-252.76545,-72.85459)" />
+        <path
+           id="shapes-f14-en.svgpath2724-1"
+           style="color:#000000;fill:#2765a7;fill-opacity:1;fill-rule:evenodd;marker-start:none;marker-mid:none;marker-end:none;display:inline"
+           sodipodi:type="star"
+           d="m 307.9506,4272.0326 -41.28003,0.6425 33.55556,17.4164 -29.64373,-28.735 11.41211,36.0426 -0.64253,-41.28 -17.4164,33.5555 28.73505,-29.6437 -36.04261,11.4121 41.28002,-0.6425 -33.55556,-17.4164 29.64373,28.735 -11.41211,-36.0426 0.64253,41.28 17.4164,-33.5555 -28.73505,29.6437 z"
+           sodipodi:r1="25.662985"
+           inkscape:flatsided="false"
+           transform="matrix(1.9041614,6.3757228e-5,-6.3757228e-5,1.9041614,-519.07689,-7817.1043)"
+           sodipodi:arg2="3.0816518"
+           sodipodi:arg1="0.011487387"
+           inkscape:randomized="0"
+           sodipodi:cy="4271.7378"
+           sodipodi:cx="282.28931"
+           inkscape:rounded="0"
+           sodipodi:r2="15.646836"
+           sodipodi:sides="8" />
+      </g>
     </g>
   </g>
   <g
@@ -1776,7 +1932,7 @@
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;font-family:Sans;-inkscape-font-specification:Sans Bold">Contact</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 381.22659,134.97646 0,0"
+       d="m 361.22659,134.97646 0,0"
        id="path8717"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -1786,7 +1942,7 @@
        inkscape:connection-end-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 381.22659,134.97646 0,0"
+       d="m 361.22659,134.97646 0,0"
        id="path8719"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
