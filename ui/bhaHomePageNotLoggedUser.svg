@@ -1096,10 +1096,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0416554"
-     inkscape:cx="512.7719"
-     inkscape:cy="383.02414"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="4.1666217"
+     inkscape:cx="543.2781"
+     inkscape:cy="228.57091"
+     inkscape:current-layer="layer2"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:window-width="1679"
@@ -1553,16 +1553,16 @@
           <text
              xml:space="preserve"
              style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-             x="231.4794"
+             x="227.01669"
              y="485.58072"
              id="drill_composition_title-5"
              sodipodi:linespacing="125%"
              inkscape:label="drill_composition_title"><tspan
                sodipodi:role="line"
                id="tspan6065-3"
-               x="231.4794"
+               x="227.01669"
                y="485.58072"
-               style="font-size:16px;font-weight:bold;-inkscape-font-specification:Sans Bold">BHA Items</tspan></text>
+               style="font-size:16px;font-weight:bold;-inkscape-font-specification:Sans Bold">Equipment</tspan></text>
           <text
              xml:space="preserve"
              style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -1591,11 +1591,11 @@
           <rect
              style="fill:#278dc9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
              id="rect8813-8"
-             width="67.165756"
+             width="72.253311"
              height="18.036425"
              x="172.23"
              y="550.51428"
-             rx="9.9002533"
+             rx="10.650161"
              ry="8.8696737" />
           <text
              xml:space="preserve"
@@ -1608,7 +1608,7 @@
                id="tspan8817-1"
                x="181.18555"
                y="563.09082"
-               style="fill:#ffffff">BHA Items</tspan></text>
+               style="fill:#ffffff">Equipment</tspan></text>
           <path
              style="opacity:0.23600003;fill:url(#radialGradient9072);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
              d="m 327.36901,450.40366 -165.60179,0 0,48.96053 c 0,0 13.56485,-23.11547 51.83764,-33.30359 38.27279,-10.18812 113.76415,-15.65694 113.76415,-15.65694 z"
@@ -1671,16 +1671,16 @@
           <text
              xml:space="preserve"
              style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-             x="197.4794"
+             x="240.68938"
              y="487.58072"
              id="drill_composition_title-1"
              sodipodi:linespacing="125%"
              inkscape:label="drill_composition_title"><tspan
                sodipodi:role="line"
                id="tspan6065-0"
-               x="197.4794"
+               x="240.68938"
                y="487.58072"
-               style="font-size:16px;font-weight:bold;-inkscape-font-specification:Sans Bold">Equipment Group</tspan></text>
+               style="font-size:16px;font-weight:bold;-inkscape-font-specification:Sans Bold">Groups</tspan></text>
           <text
              xml:space="preserve"
              style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -1705,11 +1705,11 @@
           <rect
              style="fill:#278dc9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
              id="rect8813-87"
-             width="108.58272"
+             width="59.313736"
              height="18.036425"
              x="172.23"
              y="550.51428"
-             rx="10.804791"
+             rx="8.8475885"
              ry="8.8696737" />
           <text
              xml:space="preserve"
@@ -1722,7 +1722,7 @@
                id="tspan8817-8"
                x="183.18555"
                y="563.09082"
-               style="fill:#ffffff">Equipment Group</tspan></text>
+               style="fill:#ffffff">Groups</tspan></text>
           <path
              style="opacity:0.23600003;fill:url(#radialGradient9072-5-3);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
              d="m 327.36901,450.40366 -165.60179,0 0,48.96053 c 0,0 13.56485,-23.11547 51.83764,-33.30359 38.27279,-10.18812 113.76415,-15.65694 113.76415,-15.65694 z"
